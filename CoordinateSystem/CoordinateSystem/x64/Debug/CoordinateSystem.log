@@ -1,0 +1,4 @@
+﻿  main1.cpp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  CoordinateSystem.vcxproj -> E:\vsProject\LearnOpenGL\CoordinateSystem\x64\Debug\CoordinateSystem.exe
+  CoordinateSystem.vcxproj -> E:\vsProject\LearnOpenGL\CoordinateSystem\x64\Debug\CoordinateSystem.pdb (Partial PDB)

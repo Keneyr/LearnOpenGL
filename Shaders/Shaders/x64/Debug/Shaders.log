@@ -1,0 +1,4 @@
+﻿  main3.cpp
+e:\vsproject\learnopengl\shaders\shaders\shader.h(57): warning C4101: “e”: 未引用的局部变量
+  Shaders.vcxproj -> E:\vsProject\LearnOpenGL\Shaders\x64\Debug\Shaders.exe
+  Shaders.vcxproj -> E:\vsProject\LearnOpenGL\Shaders\x64\Debug\Shaders.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  main1.cpp
+e:\vsproject\learnopengl\textures\textures\shader.h(57): warning C4101: “e”: 未引用的局部变量
+  Textures.vcxproj -> E:\vsProject\LearnOpenGL\Textures\x64\Debug\Textures.exe
+  Textures.vcxproj -> E:\vsProject\LearnOpenGL\Textures\x64\Debug\Textures.pdb (Partial PDB)
